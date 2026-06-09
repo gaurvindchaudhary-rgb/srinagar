@@ -1,0 +1,6 @@
+{
+  "name": "Srinagar Heritage Collective",
+  "description": "A high-luxury heritage resort and houseboat sanctuary on Dal Lake, Srinagar, showcasing authentic Kashmiri craftsmanship, walnut carvings, saffron silks, and royal Wazwan dining.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
