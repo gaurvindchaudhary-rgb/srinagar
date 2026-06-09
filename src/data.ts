@@ -5,10 +5,12 @@
 
 import { RoomSuite, KashmiriAddon, MenuItem, ItineraryVibe } from './types';
 
-export const HERO_IMAGE = '/src/assets/images/srinagar_hero_sunset_1780999836739.png';
-export const SUITE_IMAGE = '/src/assets/images/srinagar_heritage_suite_1780999859445.png';
-export const WAZWAN_IMAGE = '/src/assets/images/srinagar_wazwan_feast_1780999877315.png';
-export const HOUSEBOAT_IMAGE = '/src/assets/images/srinagar_luxury_houseboat_1780999896162.png';
+import HERO_IMAGE from './assets/images/srinagar_hero_sunset_1780999836739.png';
+import SUITE_IMAGE from './assets/images/srinagar_heritage_suite_1780999859445.png';
+import WAZWAN_IMAGE from './assets/images/srinagar_wazwan_feast_1780999877315.png';
+import HOUSEBOAT_IMAGE from './assets/images/srinagar_luxury_houseboat_1780999896162.png';
+
+export { HERO_IMAGE, SUITE_IMAGE, WAZWAN_IMAGE, HOUSEBOAT_IMAGE };
 
 export const SUITES: RoomSuite[] = [
   {
